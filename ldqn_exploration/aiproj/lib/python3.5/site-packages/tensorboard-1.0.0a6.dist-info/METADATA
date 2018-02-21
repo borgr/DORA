@@ -1,0 +1,20 @@
+Metadata-Version: 2.0
+Name: tensorboard
+Version: 1.0.0a6
+Summary: Standalone TensorBoard for visualizing in deep learning
+Home-page: https://github.com/dmlc/tensorboard
+Author: zihaolucky
+Author-email: zihaolucky@gmail.com
+License: Apache 2.0
+Keywords: tensorboard visualization
+Platform: UNKNOWN
+Requires-Dist: Pillow (>=4.0.0)
+Requires-Dist: numpy (>=1.11.0)
+Requires-Dist: protobuf (>=3.1.0)
+Requires-Dist: six (>=1.10.0)
+Requires-Dist: werkzeug (>=0.11.10)
+Requires-Dist: wheel (>=0.26)
+
+TensorBoard striped from TensorFlow, for general deep learning visualization.
+
+

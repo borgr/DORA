@@ -1,0 +1,15 @@
+Metadata-Version: 2.0
+Name: atari-py
+Version: 0.1.1
+Summary: Python bindings to Atari games
+Home-page: https://github.com/openai/atari-py
+Author: OpenAI
+Author-email: info@openai.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: numpy
+Requires-Dist: six
+
+UNKNOWN
+
+
