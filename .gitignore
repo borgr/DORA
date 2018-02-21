@@ -3,3 +3,4 @@ __pycache__
 *.out
 ldqn_exploration/fixedenv
 *.sh
+ldqn_exploration/atari-rl/runs
