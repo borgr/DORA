@@ -1,0 +1,3 @@
+[submodule "atari-rl"]
+	path = atari-rl
+	url = https://github.com/borgr/atari-rl.git
