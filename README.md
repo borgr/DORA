@@ -34,7 +34,7 @@ $ python3 linapprox/main.py -a dora -e MountainCarLong-v0 --binreward
 ~~~
 
 ## DQN Implementation for ATARI
-The implementation is based on the [atari-rl](https://github.com/brendanator/atari-rl) package, currently under [this fork](https://github.com/brendanator/atari-rl).
+The implementation is based on the [atari-rl](https://github.com/brendanator/atari-rl) package, currently under [this fork](https://github.com/borgr/atari-rl/tree/53f0d898585de042e38d6eead81ea10ad0677750).
 We added support for a two-streamed network for predicting Q and E values. Exploration bonus was added to the reward, and action-selection was e-greedy (more details can be found in section 4 of the paper).
 To run the e-values based agent, add the `--e_network` flag to train the two-streamed network for predicting E-values, and the `--e_exploration_bonus` flag to use generalized counters (E-values) as exploration bonus.
 ~~~
