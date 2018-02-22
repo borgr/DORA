@@ -16,7 +16,7 @@ If you use any of the code related to this repository in a paper research etc., 
 ```
 
 ## Linear Approximation with tile-coding
-Tile-coding features uses Richard's Sutton [implementation](http://www.incompleteideas.net/tiles/tiles3.html).
+Tile-coding features uses Richard Sutton [implementation](http://www.incompleteideas.net/tiles/tiles3.html).
 The experiments in the paper were performed using a version of the MountainCar environment with episode length of 1000 steps, following the definition in Sutton and Barto book. The gym version of MountainCar has by deafult an episode length of 200 steps. To register a 1000 steps version add the following snippet to the `gym/envs/__init__.py` file:
 ```python
 register(
