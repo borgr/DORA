@@ -4,7 +4,16 @@ This repository contains supplementary code for the ICLR2018 paper [DORA The Exp
 
 If you use any of the code related to this repository in a paper research etc., please cite:
 
-```Bib here ```
+```bibtex
+@inproceedings{
+    fox2018dora,
+    title={{DORA} The Explorer: Directed Outreaching Reinforcement Action-Selection},
+    author={Lior Fox and Leshem Choshen and Yonatan Loewenstein},
+    booktitle={International Conference on Learning Representations},
+    year={2018},
+    url={https://openreview.net/forum?id=ry1arUgCW},
+}
+```
 
 ## Linear Approximation with tile-coding
 Tile-coding features uses Richard's Sutton [implementation](http://www.incompleteideas.net/tiles/tiles3.html).
