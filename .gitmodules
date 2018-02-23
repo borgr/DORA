@@ -1,3 +1,6 @@
 [submodule "atari-rl"]
 	path = atari-rl
 	url = https://github.com/borgr/atari-rl.git
+[submodule "deep_exploration_with_E_network"]
+	path = deep_exploration_with_E_network
+	url = https://github.com/borgr/deep_exploration_with_E_network.git
