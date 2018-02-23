@@ -40,3 +40,6 @@ To run the e-values based agent, add the `--e_network` flag to train the two-str
 ~~~
 $ python3 main.py --game freeway --e_network --e_exploration_bonus
 ~~~
+
+## Reproducibility Challenge
+The paper was part of the [ICLR 2018 Reproducibility Challenge](http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html). A discussion of the replication study can be found in the OpenReviews submission forum. We forked the package of the replication study by Drew Davis, Jiaxuan Wang, and Tianyang Pan adding some details that were missing in their original implementation. Our revised version of their replication project can be found [here](https://github.com/borgr/deep_exploration_with_E_network/tree/2349bc9027fee67cf59914476e62f20398a43ddd).
