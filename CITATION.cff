@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite the paper below."
+authors:
+  - given-names: "Leshem"
+    family-names: "Choshen"
+    orcid: "https://orcid.org/0000-0002-0085-6496"
+  - given-names: "Lior"
+    family-names: "Fox"
+  - given-names: "Yonatan"
+    family-names: "Loewenstein"
+title: "DORA"
+preferred-citation:
+  type: conference-paper
+  title: "{DORA} The Explorer: Directed Outreaching Reinforcement Action-Selection"
+  authors:
+    - given-names: "Leshem"
+      family-names: "Choshen"
+    - given-names: "Lior"
+      family-names: "Fox"
+    - given-names: "Yonatan"
+      family-names: "Loewenstein"
+  year: 2018
+  collection-title: "6th International Conference on Learning Representations, {ICLR} 2018, Vancouver, BC, Canada, April 30 - May 3, 2018, Conference Track Proceedings"
+  url: "https://arxiv.org/abs/1804.04012"
