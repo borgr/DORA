@@ -1,5 +1,36 @@
 # DORA The Explorer: Directed Outreaching Reinforcement Action-Selection  
 
+<!-- paper-geo:links:start -->
+
+## {DORA} The Explorer: Directed Outreaching Reinforcement Action-Selection
+
+Published in 6th International Conference on Learning Representations, {ICLR} 2018, Vancouver, BC, Canada, April 30 - May 3, 2018, Co (2018).
+
+[Paper page](https://borgr.github.io/papers/dora-the-explorer-directed-outreaching-reinforcement-action/) · [arXiv](https://arxiv.org/abs/1804.04012) · [HTML](https://ar5iv.labs.arxiv.org/html/1804.04012) · [Publisher](https://openreview.net/forum?id=ry1arUgCW) · [Hugging Face](https://huggingface.co/papers/1804.04012) · [Semantic Scholar](https://www.semanticscholar.org/paper/3461154) · [alphaXiv](https://www.alphaxiv.org/abs/1804.04012) · [PDF](https://arxiv.org/pdf/1804.04012)
+
+<details><summary>Cite</summary>
+
+```bibtex
+@inproceedings{DBLP:conf/iclr/FoxCL18,
+    pretitle={},author       = {Leshem Choshen and Lior Fox
+                   and
+                  Yonatan Loewenstein},
+  title        = {{DORA} The Explorer: Directed Outreaching Reinforcement Action-Selection},
+  booktitle    = {6th International Conference on Learning Representations, {ICLR} 2018,
+                  Vancouver, BC, Canada, April 30 - May 3, 2018, Conference Track Proceedings},
+  publisher    = {OpenReview.net},
+  year         = {2018},
+  url          = {https://openreview.net/forum?id=ry1arUgCW},
+  timestamp    = {Thu, 25 Jul 2019 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/iclr/FoxCL18.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+</details>
+
+<!-- paper-geo:links:end -->
+
 This repository contains supplementary code for the ICLR2018 paper [DORA The Explorer: Directed Outreaching Reinforcement Action-Selection](https://openreview.net/forum?id=ry1arUgCW).
 
 If you use any of the code related to this repository in a paper, research etc., please cite:
