@@ -11,7 +11,7 @@ authors:
 title: "DORA"
 preferred-citation:
   type: conference-paper
-  title: "{DORA} The Explorer: Directed Outreaching Reinforcement Action-Selection"
+  title: "DORA The Explorer: Directed Outreaching Reinforcement Action-Selection"
   authors:
     - given-names: "Leshem"
       family-names: "Choshen"
@@ -20,5 +20,6 @@ preferred-citation:
     - given-names: "Yonatan"
       family-names: "Loewenstein"
   year: 2018
-  collection-title: "6th International Conference on Learning Representations, {ICLR} 2018, Vancouver, BC, Canada, April 30 - May 3, 2018, Conference Track Proceedings"
+  collection-title: "ICLR 2018"
+  doi: "10.48550/arXiv.1804.04012"
   url: "https://arxiv.org/abs/1804.04012"
